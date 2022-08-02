@@ -1,0 +1,6 @@
+name: BoostedMinecarts
+version: '${version}'
+main: io.github.mabi19.boostedminecarts.BoostedMinecarts
+api-version: 1.19
+authors: [ Mabi19 ]
+description: Change max speed of a minecart by making it go over certain blocks.
